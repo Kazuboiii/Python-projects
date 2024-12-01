@@ -1,0 +1,5 @@
+#FOR LOOP= EXECUTES A BLOCK OF CODE FOR THE FIXED NUMBER OF TIMES.
+#          YOU CAN ITERATE OVER A RANGE, STRING,SEQUENCE ETC.
+
+for x in reversed(range(1,11)):
+    print(x)
